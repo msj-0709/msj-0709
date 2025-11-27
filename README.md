@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
   <br/>
   ### ETC
-[![My Skills](https://skillicons.dev/icons?i=azure,supabase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,supabase,linux,git&theme=light)](https://skillicons.dev)
   <br/>
   <br/>
   
