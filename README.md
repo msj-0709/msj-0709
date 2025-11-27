@@ -16,7 +16,7 @@
   ## 🧱 Tech Stack
   ### Language
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript&theme=light)](https://skillicons.dev)
 
   <br/>
   
