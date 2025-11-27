@@ -17,11 +17,14 @@
   ### Language
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript&theme=light)](https://skillicons.dev)
   <br/>
+  ### DBMS
+[![My Skills](https://skillicons.dev/icons?i=mysql,oracle&theme=light)](https://skillicons.dev)
+  <br/>
   ### Framework
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
   <br/>
   ### ETC
-[![My Skills](https://skillicons.dev/icons?i=azure,supabase,linux,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,supabase,linux,git,gitlab,bitbucket&theme=light)](https://skillicons.dev)
   <br/>
   <br/>
   
