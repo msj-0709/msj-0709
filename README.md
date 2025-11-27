@@ -18,7 +18,10 @@
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript&theme=light)](https://skillicons.dev)
   <br/>
   ### DBMS
-[![My Skills](https://skillicons.dev/icons?i=mysql,oracle&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,oracle,postgres&theme=light)](https://skillicons.dev)
+  <br/>
+  ### Library
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
   <br/>
   ### Framework
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
