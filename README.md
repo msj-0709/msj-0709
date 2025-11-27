@@ -20,11 +20,8 @@
   ### DBMS
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
   <br/>
-  ### Library
-[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
-  <br/>
-  ### Framework
-[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
+  ### Library & Framework
+[![My Skills](https://skillicons.dev/icons?i=react,spring&theme=light)](https://skillicons.dev)
   <br/>
   ### ETC
 [![My Skills](https://skillicons.dev/icons?i=azure,supabase,linux,git,gitlab,bitbucket,vim,vercel&theme=light)](https://skillicons.dev)
