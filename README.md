@@ -9,7 +9,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a ITSM developer and Backend Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :fire: “I’m a developer who prioritizes service reliability.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
