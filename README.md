@@ -15,11 +15,8 @@
   
   ## 🧱 Tech Stack
   ### Language
-
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript&theme=light)](https://skillicons.dev)
-
   <br/>
-  
   ### Framework
   <!--Flask-->
 [![My Skills](https://skillicons.dev/icons?i=spring,supabase&theme=light)](https://skillicons.dev)
