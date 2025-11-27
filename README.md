@@ -22,11 +22,8 @@
   
   ### Framework
   <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript&theme=light)](https://skillicons.dev)
+
   <br/>
   
   ### ETC
