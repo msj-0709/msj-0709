@@ -28,7 +28,5 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msj-0709)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
